@@ -2,4 +2,4 @@
 
 ![Vishal Github Stats](https://github-readme-stats.vercel.app/api?username=akira-vishal&theme=highcontrast&show_icons=true)
 
-•⚡I’m currently working on [![Nexus Kernel](http://img.shields.io/static/?Nexus=Kernel&logo=appveyor)](t.me/NexusKernel)
+•⚡I’m currently working on [![Nexus Kernel](t.me/NexusKernel)]
